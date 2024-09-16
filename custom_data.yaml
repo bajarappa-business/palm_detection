@@ -1,0 +1,6 @@
+train: Data/images/train
+val: Data/images/val
+
+nc: 1  # number of classes
+
+names: ['plam tree top view']  # list of class names
